@@ -1,10 +1,36 @@
 body{
-    background: #dbd171
+    background: #66acdb
 }
+
+.principal{
+    background: #66cdd4;
+    padding: 30px;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.beneficios{
+    background-color: #e65a5a;
+    padding: 20px;
+}
+
 p{
     text-align: center;
 }
 
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20;
+    margin-right:15%;
+}
+
 em strong{
-    color:rgb(204, 59, 14)
+    color:rgb(236, 179, 71)
+}
+
+div{
+    text-align: center;
 }
