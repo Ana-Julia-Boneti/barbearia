@@ -1,11 +1,11 @@
-body{
-    background: #7e83ca;
+
+body {
+    background: #ffffffcc;
 }
 
-.principal{
-    background: #3195bd;
-    padding: 50px;
-    font-style: italic;
+.principal {
+    background: #fffeb3cc;
+    padding: 30px;
 }
 
 .itens{
@@ -13,8 +13,8 @@ body{
 }
 
 .beneficios{
-    background: #145b68;
-    padding: 50px;
+    background: #d6bfbf;
+    padding: 30px;
 }
 
 h2{
@@ -24,26 +24,24 @@ h2{
 ul{
     display: inline-block;
     vertical-align: top;
-    width: 20px;
+    width: 20;
     margin-right: 15%;
 }
 
 .imgbeneficios{
-    width: 75%;
+    width:50%
 }
 
 p{
     text-align: center;
-    
 }
 
 em strong{
-    color:#22127ab6
+    color: #df0000cc
 }
 
-#indio{
-    width: 100%;
- 
+#banner{
+    width:100%
 }
 
 h1{
@@ -54,10 +52,10 @@ h1{
     font-size: 20px;
 }
 
-.titulo-pricipal{
+.titulo-principal{
     padding-left: 20px;
 }
+
 .centralizado{
     text-align: center;
 }
-
